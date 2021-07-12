@@ -1,5 +1,5 @@
 [package]
-name = "sgx-heap"
+name = "enarx-heap"
 version = "0.1.0"
 authors = ["Nathaniel McCallum <npmccallum@redhat.com>"]
 edition = "2018"

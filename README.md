@@ -1,4 +1,4 @@
-# sgx-heap
+# enarx-heap
 
 Allocate and deallocate memory on a Heap
 
